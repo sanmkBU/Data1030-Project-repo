@@ -11,5 +11,6 @@ The project involves hyperparameter tuning of the ML models and employs iterativ
 Based on the model predictivity and results obtained, it shows the best model performance in logistic regression.
 
 The packages versions used in this project - 
+Python version - "3.11.4"
 numpy - "1.24.4", matplotlib - "3.7.2",sklearn - "1.3.0", 
 pandas - "2.0.3",xgboost - "1.7.6", shap - "0.42.1", seaborn - "0.12.2"
